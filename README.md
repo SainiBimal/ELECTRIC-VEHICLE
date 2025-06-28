@@ -227,7 +227,7 @@ Delhi shows consistent performance across categories, especially 3W
 
 | `ev.pbix`| Power BI used to visualize and summarize data |
 
-| `ev.exc`| Excel used to preprocess,summarize and visualize  data |
+| `ev.xlsx`| Excel used to preprocess, summarize and visualize  data |
 
 | `README.md`| Readme file summary of the data |
 
