@@ -41,7 +41,7 @@ Section	Description
 
 🗓️ Year-on-Year EV Sales (2014–2024)
 - EV sales have grown from **2.4K in 2014** to **1.5M in 2023**.
-- Peak growth observed in:
+- Peak growth observed in: 
   - **2021 → 2022**: +209% YoY growth
   - **2020 → 2021**: +165% YoY growth
 - **2024** saw a drop (as of current data): -90.61%
