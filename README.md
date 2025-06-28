@@ -214,6 +214,25 @@ Delhi shows consistent performance across categories, especially 3W
 
 | `EV.ipynb`| Python scripts used to preprocess or summarize data |
 
+
+
+## 🚀 Technologies Used
+
+- 📊 **Power BI Desktop**  
+  Used for building interactive dashboards, visualizations, KPIs, and dynamic slicers to analyze EV sales trends.
+
+- 📁 **Microsoft Excel**  
+  Utilized for raw data cleaning, pivoting, and basic calculations like YoY and MoM changes before importing into Power BI.
+
+- 🧠 **DAX / Power Query**  
+  Enabled advanced calculations through custom measures, calculated columns, and efficient data modeling.
+
+- 🐍 **Python (Pandas, Matplotlib)**  
+  Used for exploratory data analysis (EDA), trend analysis, and generating additional statistical summaries.
+
+- 🧮 **SQL (Structured Query Language)**  
+  Applied for querying large EV datasets, joining state-level data, filtering by vehicle categories, and preparing structured outputs before visualization.
+
 | `ev.pbix`| Power BI used to visualize and summarize data |
 
 | `ev.exc`| Excel used to preprocess,summarize and visualize  data |
