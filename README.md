@@ -2,8 +2,12 @@
 This repository presents an in-depth **data analysis and visualization** of Electric Vehicle (EV) sales trends across India using Microsoft Excel, SQL, Python and  Power BI.
 # ⚡ Electric Vehicle (EV) Sales Analysis
 
+------------------------------------------------------------------------
+
 📊 Dashboard Overview
 The Electric Vehicle Sales Dashboard is an interactive and visual analytics solution built using Power BI, focused on analyzing EV adoption trends across India. It includes KPIs, comparative charts, and advanced metrics to assist stakeholders in understanding EV sales performance from 2014 to 2024.
+
+------------------------------------------------------------------------
 
 🔹 Key Features:
 ✅ Total EV Sales Trends: Year-over-year and month-over-month change
@@ -16,7 +20,7 @@ The Electric Vehicle Sales Dashboard is an interactive and visual analytics solu
 
 ✅ KPI Cards: Total Sales, Average Sales
 
-
+------------------------------------------------------------------------
 
 
 📌 Dashboard Components:
@@ -28,10 +32,12 @@ Section	Description
 📅 Time Series Filtering and Interactive slicers for Year, Month, and State.
 📊 YOY / MOM Change	Dedicated visual section with % growth/dip over time
 
-
+------------------------------------------------------------------------
 
 ![Dashboard](https://github.com/user-attachments/assets/c552f5aa-060b-4892-ba39-9fdc3c9541b9)
 
+
+------------------------------------------------------------------------
 
 🗓️ Year-on-Year EV Sales (2014–2024)
 - EV sales have grown from **2.4K in 2014** to **1.5M in 2023**.
@@ -42,10 +48,17 @@ Section	Description
 ![yoy](https://github.com/user-attachments/assets/02965465-d6cf-45bf-b127-40feb6fe9963)
 
 
+------------------------------------------------------------------------
+
+
 📆 Month-on-Month (MoM) Analysis
 - **Highest sales months**: November, December, and January
 - Noticeable **drop in February** followed by recovery in March
 ![mom](https://github.com/user-attachments/assets/83bce2dd-b2ae-43b9-bdb2-def5b9dbe37d)
+
+
+------------------------------------------------------------------------
+
 
 📍 State-wise Performance
 - **Top Performing States**:
@@ -56,11 +69,18 @@ Section	Description
 - ![state wise ev](https://github.com/user-attachments/assets/1ee491b5-9016-4a1e-850f-34e8b9a9aab3)
 
 
+------------------------------------------------------------------------
+
+
+
 🚗 EV Sales by Vehicle Type
 - **2-Wheelers**: 50.3% of total sales
 - **3-Wheelers**: 45.1%
 - **4-Wheelers and Buses**: Small but growing segment
 ![vtype wise ev](https://github.com/user-attachments/assets/2fc64426-4e3d-4a14-b058-f7c67040663b)
+
+
+------------------------------------------------------------------------
 
 
 📅 Year-wise EV Sales Trend
@@ -72,6 +92,9 @@ Fastest growth period: 2020–2022, with YoY gains of 165% and 209%
 ![Year wise ev](https://github.com/user-attachments/assets/d60567fb-fc61-463f-b0e8-34ddd14f1b8d)
 
 
+------------------------------------------------------------------------
+
+
 🗓️ Month-wise EV Sales (Seasonal Trend)
 November, December, and January recorded the highest sales
 
@@ -79,6 +102,9 @@ Seasonal peaks align with festive quarters and government scheme launches
 
 February often drops sharply after January peak
 ![month wise ev](https://github.com/user-attachments/assets/756167f0-4ec3-4565-8328-f816c281529e)
+
+
+------------------------------------------------------------------------
 
 
 🕓 Quarter-wise EV Sales Distribution
@@ -94,6 +120,9 @@ Q2	20.17%
 ![quarter wise ev](https://github.com/user-attachments/assets/1effc85f-28b6-44ec-8bec-2da948386185)
 
 
+------------------------------------------------------------------------
+
+
 🚘 EV Sales by Vehicle Category
 2-Wheelers: 🥇 50.3% of all EVs sold — most dominant
 
@@ -103,6 +132,10 @@ Q2	20.17%
 
 Buses & Others: less than 1%
 ![vcat wise ev](https://github.com/user-attachments/assets/d6bf89ec-bed0-4157-a2b4-6a2be37e6895)
+
+
+------------------------------------------------------------------------
+
 
 
 🏷️ EV Sales by Vehicle Class
@@ -118,6 +151,9 @@ Others like Construction Equipment and Institution Buses have negligible volumes
 ![vclass wise ev](https://github.com/user-attachments/assets/07919cc9-e5c6-46e3-82d5-dbf00c3976ab)
 
 
+------------------------------------------------------------------------
+
+
 
 📊 Year vs Vehicle Category vs Sales
 2023 had the highest sales across all categories
@@ -128,6 +164,9 @@ Others like Construction Equipment and Institution Buses have negligible volumes
 ![year vcat ev](https://github.com/user-attachments/assets/1e605308-c12f-44b2-9e85-9185313365d9)
 
 
+------------------------------------------------------------------------
+
+
 🗺️ State vs Vehicle Category vs Sales
 Uttar Pradesh leads in 2W and 3W sales
 
@@ -136,6 +175,9 @@ Maharashtra and Karnataka are strong in 4W adoption
 Delhi shows consistent performance across categories, especially 3W
 ![state vcat ev](https://github.com/user-attachments/assets/17f5f55d-9024-4c9b-9593-628999a2036a)
 
+
+
+------------------------------------------------------------------------
 
 
 
@@ -154,14 +196,28 @@ Delhi shows consistent performance across categories, especially 3W
 📌 All insights are backed by Power BI dashboard visuals created from 96,000+ sales records between 2014 and 2024.
 
 
+------------------------------------------------------------------------
+
+
 
 ## 📁 Files in this Repository
 
 | File | Description |
 |------|-------------|
 
+
 | `ev.csv` |  Raw EV sales dataset |
+
 | `ev.pdf` | Full Power BI dashboard export with all visualizations |
-| `ev_query`| SQL scripts used to preprocess or summarize data |
+
+| `ev_query.sql`| SQL scripts used to preprocess, querying and summarize data |
+
+| `EV.ipynb`| Python scripts used to preprocess or summarize data |
+
+| `ev.pbix`| Power BI used to visualize and summarize data |
+
+| `ev.exc`| Excel used to preprocess,summarize and visualize  data |
+
+| `README.md`| Readme file summary of the data |
 
 
