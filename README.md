@@ -38,11 +38,13 @@ Dashboard using Power BI
 ![Dashboard](https://github.com/user-attachments/assets/c552f5aa-060b-4892-ba39-9fdc3c9541b9)
 
 
-------------------------------------------------------------------------
+-
 ------------------------------------------------------------------------
 Dashboard using Excel
 
-![Dashboard excel](https://github.com/user-attachments/assets/c0e9d728-c973-42e1-92e8-c09092ba60a9)
+
+![Dashboard excel](https://github.com/user-attachments/assets/f7cc0949-4581-4cb3-b3ab-ea9242bce803)
+
 
 
 
