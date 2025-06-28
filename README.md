@@ -212,7 +212,7 @@ Delhi shows consistent performance across categories, especially 3W
 
 | `ev_query.sql`| SQL scripts used to preprocess, querying and summarize data |
 
-| `EV.ipynb`| Python scripts used to preprocess or summarize data |
+| `EV.ipynb`| Python scripts used to preprocess or summarize data | 
 
 | `ev.pbix`| Power BI used to visualize and summarize data |
 
