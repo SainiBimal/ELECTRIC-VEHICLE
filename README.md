@@ -214,6 +214,16 @@ Delhi shows consistent performance across categories, especially 3W
 
 | `EV.ipynb`| Python scripts used to preprocess or summarize data |
 
+| `ev.pbix`| Power BI used to visualize and summarize data |
+
+| `ev.exc`| Excel used to preprocess,summarize and visualize  data |
+
+| `README.md`| Readme file summary of the data |
+
+
+
+-----------------------------------------------------------------------
+
 
 
 ## 🚀 Technologies Used
@@ -233,10 +243,50 @@ Delhi shows consistent performance across categories, especially 3W
 - 🧮 **SQL (Structured Query Language)**  
   Applied for querying large EV datasets, joining state-level data, filtering by vehicle categories, and preparing structured outputs before visualization.
 
-| `ev.pbix`| Power BI used to visualize and summarize data |
 
-| `ev.exc`| Excel used to preprocess,summarize and visualize  data |
 
-| `README.md`| Readme file summary of the data |
+
+-----------------------------------------------------------------------
+
+
+  
+## 📈 Metrics Tracked
+
+- Total EV Sales (national & state-wise)
+- YoY Growth (%)
+- MoM Growth (%)
+- Sales by:
+  - Month
+  - Quarter
+  - Vehicle Category (2W, 3W, 4W, Bus, Others)
+  - Vehicle Class (Scooter, E-Rickshaw, etc.)
+
+
+
+
+-----------------------------------------------------------------------
+
+
+
+## 📚 Future Enhancements
+
+- Include interactive Power BI `.pbix` file
+- Integrate with external EV adoption policies dataset
+- Add forecasting using Power BI AI visuals
+
+
+-----------------------------------------------------------------------
+
+
+## 🙌 Author
+
+**BIMAL KUMAR SAINI**  
+Data Analyst Intern
+📧 bimalsaini333@gmail.com
+🔗 [LinkedIn]([https://www.linkedin.com/in/bimalsaini333/]) | [GitHub][https://github.com/SainiBimal]
+
+
+
+
 
 
