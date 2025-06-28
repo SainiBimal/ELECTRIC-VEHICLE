@@ -280,12 +280,10 @@ Delhi shows consistent performance across categories, especially 3W
 
 ## 🙌 Author
 
-**BIMAL KUMAR SAINI**  
-Data Analyst Intern
-📧 bimalsaini333@gmail.com
-🔗 [LinkedIn]([https://www.linkedin.com/in/bimalsaini333/]) | [GitHub][https://github.com/SainiBimal]
-
-
+**BIMAL KUMAR SAINI**              
+Data Analyst Intern                      
+📧 bimalsaini333@gmail.com              
+🔗 [LinkedIn][https://www.linkedin.com/in/bimalsaini333/] | [GitHub][https://github.com/SainiBimal]
 
 
 
