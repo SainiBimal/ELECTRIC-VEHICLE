@@ -35,7 +35,8 @@ Section	Description
 ------------------------------------------------------------------------
 Dashboard using Power BI
 
-![Dashboard](https://github.com/user-attachments/assets/c552f5aa-060b-4892-ba39-9fdc3c9541b9)
+
+![Dashboard](https://github.com/user-attachments/assets/493b2a85-a53f-424c-aa2b-d64840e93d6a)
 
 
 
