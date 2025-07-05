@@ -81,6 +81,15 @@ Dashboard using Excel
 - ![state wise ev](https://github.com/user-attachments/assets/1ee491b5-9016-4a1e-850f-34e8b9a9aab3)
 
 
+
+EV State wise Sale correlation
+![EV corr](https://github.com/user-attachments/assets/4c5fc55d-389d-4bed-a9bb-eebe8ce31a11)
+
+
+Top 5 State KDE Plot
+![EV kde plot](https://github.com/user-attachments/assets/1b9e2f69-9ea0-4ac4-8c26-0350fb75bd75)
+
+
 ------------------------------------------------------------------------
 
 
