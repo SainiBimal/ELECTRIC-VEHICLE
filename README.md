@@ -294,7 +294,7 @@ Delhi shows consistent performance across categories, especially 3W
 
 - Include interactive Power BI `.pbix` file
 - Integrate with external EV adoption policies dataset
-- Add forecasting using Power BI AI visuals
+- Add forecasting using Power BI AI visuals 
 
 
 -----------------------------------------------------------------------
