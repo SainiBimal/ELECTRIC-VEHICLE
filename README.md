@@ -60,6 +60,8 @@ Dashboard using Excel
 - **2024** saw a drop (as of current data): -90.61%
 ![yoy](https://github.com/user-attachments/assets/02965465-d6cf-45bf-b127-40feb6fe9963)
 
+<img width="1799" height="607" alt="Screenshot 2025-08-20 024700" src="https://github.com/user-attachments/assets/4e0ccc94-9435-4173-b89f-58ce1f3e5e40" />
+
 
 ------------------------------------------------------------------------
 
