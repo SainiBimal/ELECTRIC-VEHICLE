@@ -203,7 +203,32 @@ Delhi shows consistent performance across categories, especially 3W
 
 ------------------------------------------------------------------------
 
+## 🧪 Statistical Testing
 
+Chi-Square Test → State and EV category are dependent (different states prefer different EV types).
+
+A/B Testing → Sales trend changed after 2020 → Growth in EV adoption became much stronger.
+
+Hypothesis Testing →  Sales are not equal across all states.
+
+
+------------------------------------------------------------------------
+
+
+## 🤖 Machine Learning
+
+Model: Decision Tree Classifier
+
+Target: Vehicle Category
+
+Features: Year, State and Sales Quantity
+
+Evaluation: Accuracy, Classification Report, Confusion Matrix
+
+✅ Results: Model predicts EV category with reasonable accuracy.
+
+
+------------------------------------------------------------------------
 
 
 🧠 Insights and Summary of Key Trends:
