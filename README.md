@@ -308,7 +308,7 @@ Evaluation: Accuracy, Classification Report, Confusion Matrix
   - Month
   - Quarter
   - Vehicle Category (2W, 3W, 4W, Bus, Others)
-  - Vehicle Class (Scooter, E-Rickshaw, etc.)
+  - Vehicle Class (Scooter, E-Rickshaw, etc.) 
 
 
 
