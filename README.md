@@ -365,5 +365,7 @@ Data Analyst Intern
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SainiBimal&style=flat-square)
 
+![Hits](https://hits.sh/github.com/SainiBimal/MyRepo.svg?style=flat-square)
+
 
 
