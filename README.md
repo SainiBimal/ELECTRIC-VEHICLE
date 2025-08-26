@@ -257,7 +257,7 @@ Evaluation: Accuracy, Classification Report, Confusion Matrix
 
 | `ev.csv` |  Raw EV sales dataset |
 
-| `ev.pdf` | Full Power BI dashboard export with all visualizations |
+| `Electrical Vehicle Sales Analysis.pdf` | Final presentation |
 
 | `ev_query.sql`| SQL scripts used to preprocess, querying and summarize data |
 
@@ -269,6 +269,7 @@ Evaluation: Accuracy, Classification Report, Confusion Matrix
 
 | `README.md`| Readme file summary of the data |
 
+| `ev.pdf` | Full Power BI dashboard export with all visualizations |
 
 
 -----------------------------------------------------------------------
