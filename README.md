@@ -277,6 +277,8 @@ Evaluation: Accuracy, Classification Report, Confusion Matrix
 
 | `Electrical Vehicle Sales Analysis.pdf` | Final presentation |
 
+| `ev_bigquery.sql`| SQL scripts of EV Sales Analysis and forecasting |
+
 | `ev_query.sql`| SQL scripts used to preprocess, querying and summarize data |
 
 | `EV.ipynb`| Python scripts used to preprocess or summarize data | 
