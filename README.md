@@ -1,12 +1,10 @@
-# Electric Vehicle (EV) Sales Analysis & Forecasting
-This repository presents an in-depth **data analysis and visualization** of Electric Vehicle (EV) sales trends across India using Microsoft Excel, SQL, Python and  Power BI.
-# ⚡ Electric Vehicle (EV) Sales Analysis 
- 
-------------------------------------------------------------------------
+# 🚘Electric Vehicle (EV) Sales Analysis & Forecasting
 
-📊 Dashboard Overview
+
 The Electric Vehicle (EV) Sales Analysis & Forecasting project explores India’s EV adoption trends from 2014 to 2024, combining BigQuery for data analytics and Power BI for visualization.
 This end-to-end data project demonstrates expertise in SQL-based data analysis, time-series forecasting using BigQuery ML (ARIMA+), and interactive dashboard design.
+This repository presents an in-depth **data analysis and visualization** of Electric Vehicle (EV) sales trends across India using Microsoft Excel, SQL, Python and  Power BI.
+
 
 ------------------------------------------------------------------------
 
@@ -51,7 +49,7 @@ Section	Description
 📊 YOY / MOM Change	Dedicated visual section with % growth/dip over time
 
 ------------------------------------------------------------------------
-Dashboard using Power BI
+📊 Dashboard Overview using Power BI
 
 
 ![DashBoards](https://github.com/user-attachments/assets/eca3b9c3-b446-4447-a38a-d61f5572a712)
