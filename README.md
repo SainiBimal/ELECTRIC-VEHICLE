@@ -81,7 +81,8 @@ Dashboard using Excel
 
 - Using Bigquery
   
-<img width="1916" height="943" alt="Screenshot 2025-12-02 133636" src="https://github.com/user-attachments/assets/7c636e9c-69e3-412d-b501-a9fda62ade71" />
+<img width="1913" height="951" alt="Screenshot 2025-12-02 124926" src="https://github.com/user-attachments/assets/5bbdd943-594d-4767-9112-92e247f56043" />
+
 
 
 ------------------------------------------------------------------------
@@ -107,10 +108,14 @@ Dashboard using Excel
 
 
 EV State wise Sale correlation
+
 ![EV corr](https://github.com/user-attachments/assets/4c5fc55d-389d-4bed-a9bb-eebe8ce31a11)
 
+
 Using Bigquery
-<img width="1913" height="951" alt="Screenshot 2025-12-02 124926" src="https://github.com/user-attachments/assets/a3387bea-85c9-42ac-aa1b-18a37c559491" />
+
+<img width="1916" height="943" alt="Screenshot 2025-12-02 133636" src="https://github.com/user-attachments/assets/f423d768-61c0-467e-9571-2e81fd775a6c" />
+
 
 
 Top 5 State KDE Plot
