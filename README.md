@@ -60,8 +60,9 @@ Section	Description
 ------------------------------------------------------------------------
 Dashboard using Excel
 
+<img width="1106" height="819" alt="Excel Dashboard" src="https://github.com/user-attachments/assets/5084a46f-b536-41f6-8e1c-9b8fc29a1486" />
 
-![Dashboard excel](https://github.com/user-attachments/assets/f7cc0949-4581-4cb3-b3ab-ea9242bce803)
+
 
 
 
